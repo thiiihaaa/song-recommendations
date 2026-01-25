@@ -335,7 +335,7 @@ const songs = [
     spotifyId: "1G5cJCr6WwmiKRGlCbq6WS"
   },
   {
-    title: "小さな夢ｓ",
+    title: "小さな夢",
     artist: "ヒグチアイ",
     spotifyId: "169bY9djGFRpPcqMMm9hik"
   },
@@ -360,144 +360,144 @@ const songs = [
     spotifyId: "2s4SPZq8GdvH87MIrrv3Iw"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
+    title: "BLACK",
+    artist: "G-DRAGON, Jennie Kim",
+    spotifyId: "1JD45OeFWN6lxXR6SVfxzo"
+  },
+  {
+    title: "lovers Rock",
+    artist: "TV Girl",
     spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "DIP",
+    artist: "Connor Price, Kazuo",
+    spotifyId: "5qqmH59XIIH6OOl8FtZ72k"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "ラストシーン",
+    artist: "いきものがたり",
+    spotifyId: "1LTla3bbMwueS9LdCSCvy6"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "こっちを向いてよ",
+    artist: "Weaver",
+    spotifyId: "1I3b6oXBT9skyvMyUSuytK"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Let Go",
+    artist: "BTS",
+    spotifyId: "1OqDvYVDhJyFZny7XlfIyZ"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Before You",
+    artist: "Benson Boone",
+    spotifyId: "523f4oSjrZx83XDtRLnsIw"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "再会",
+    artist: "LiSA, Uru",
+    spotifyId: "52IsIvHidofM9JMjw78Jyz"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Never Goodbye",
+    artist: "NCT DREAM",
+    spotifyId: "5EAfUqytXYbH0yUZR3QGli"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "I can't seem to let you go",
+    artist: "Kenta Dedachi",
+    spotifyId: "3r0FHhYhQjVIGmSWyUEjFJ"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Slow Grenade",
+    artist: "Ellie Goulding, lauv",
+    spotifyId: "0QJqwbSleB55yUd8RnBCE5"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "The Little Name",
+    artist: "ADORA",
+    spotifyId: "5tdzH8IkV62pyL1BHXrfmv"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "星屑ビーナス",
+    artist: "Aimer",
+    spotifyId: "1CAhaSy2odeJoPIkFndCIB"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "One Step Closer",
+    artist: "INTERSECTION",
+    spotifyId: "5TzH36LbU4cnntXmdUDXuW"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Good For A Time",
+    artist: "Benjamin Kheng, Bea Lorenzo",
+    spotifyId: "3uan6scrspVI9GQQWdtya2"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "ぎゅ",
+    artist: "YOAKE",
+    spotifyId: "3wQpRfB9KeAheSqQmlg64c"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "so good",
+    artist: "joan",
+    spotifyId: "5viDyBHBnJHCF1XTcROFkF"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "籠の中の鳥",
+    artist: "YOURNESS",
+    spotifyId: "12w8fa09F3TDzKi9x6TLrl"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Because we loved",
+    artist: "KANG MINKYUNG, CHOI JUNG HOON",
+    spotifyId: "2JIaYEoBsURkmNab7EgYwA"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "私の最後の日",
+    artist: "YOURNESS",
+    spotifyId: "5xJIESSN1IDFlg9WGqaXHR"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "COOL（Your rainbow）",
+    artist: "NMIXX",
+    spotifyId: "6SYVnDzwzMmTGqW13DSiZA"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Don't Wanna Cry",
+    artist: "SEVENTEEN",
+    spotifyId: "6Upu6yjkdi0DVI8E3IBZEU"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "たぶん",
+    artist: "YOASOBI",
+    spotifyId: "1398dL22bDbKbAmiOnPaq7o"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "恋だろ",
+    artist: "wacci",
+    spotifyId: "0ir7DGXo3hxaPa82h1vrOj"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "差し色",
+    artist: "Bialystocks",
+    spotifyId: "2AE8eW32N5jimZ9wVO39Br"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "恋",
+    artist: "asmi",
+    spotifyId: "6sw8B43VstDnA0myBYhI6w"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "一輪花",
+    artist: "tuki.",
+    spotifyId: "456rgV2smcOpAhhSlQVPK8"
   },
   {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
-  },
-  {
-    title: "Hype Boy",
-    artist: "NewJeans",
-    spotifyId: "1wS8pYbS0nDnncH5H0CzYt"
+    title: "Diary",
+    artist: "SEKAI NO OWARI",
+    spotifyId: "3zpQOYESpZj2mDPrgy3fRT"
   }
   
 ];
