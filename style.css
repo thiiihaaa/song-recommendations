@@ -10,10 +10,15 @@ body {
 
   background: linear-gradient(
     180deg,
-    #ad5389 0%,
+    /* #ad5389 0%,
     #8f3f7d 30%,
     #5b2b6f 60%,
-    #3c1053 100%
+    #3c1053 100% */
+
+    #3c1053 0%,
+    #5b2b6f 30%,
+    #8f3f7d 60%,
+    #ad5389 100%
   );
   background-attachment: fixed;
 
